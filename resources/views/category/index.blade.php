@@ -15,7 +15,7 @@
             Category
         @endslot
         @slot('title')
-            Category List
+            Category Lists
         @endslot
     @endcomponent
 
